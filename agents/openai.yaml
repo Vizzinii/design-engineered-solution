@@ -1,0 +1,4 @@
+interface:
+  display_name: "设计工程化方案"
+  short_description: "用工程化方法写方案：每步可验收、风险有应对、承诺可验证、经得起评审追问。"
+  default_prompt: "使用 $design-engineered-solution 以工程化方法起草或评审解决方案。"
